@@ -1321,6 +1321,13 @@ h6{
     margin: 0 5px;
   }
 
+  .page-title{
+    font-size: 10px;
+    width: 100%;
+    margin: auto;
+    text-align: left;
+  }
+
   .hero img {
     width: 100%;
     height: auto;
@@ -1532,9 +1539,7 @@ h6{
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
-}
+
 
 /*--------------------------------------------------------------
 # Contact Section
