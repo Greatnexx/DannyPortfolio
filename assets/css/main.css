@@ -1322,11 +1322,11 @@ h6{
   }
 
   .page-title{
-    font-size: 12px;
+    font-size: 11px;
     width: 100%;
-    line-height: 25px;
+    line-height: 20pxg;
     
-    text-align: left;
+    font-weight: 500;
   }
 
   .hero img {
